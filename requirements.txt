@@ -5,6 +5,7 @@ pandas
 pytest
 coverage
 numpy
+httpx
 scikit-learn
 joblib
 memoized-property
