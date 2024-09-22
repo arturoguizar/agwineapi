@@ -52,3 +52,4 @@ async def predict(WineProperties:WineProperties):
 
     # Convert prediction to json reponse
     return json.dumps(pred)
+    
